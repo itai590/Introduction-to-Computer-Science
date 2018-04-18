@@ -1,0 +1,76 @@
+Matrix Before Sort
+
+71 1 3 1 6 
+2 5 2 -1 7 
+0 -12 12 11 8 
+342 901 -3 -1 9 
+92 55 2 -123 10 
+-9 9 -23 23 11 
+10 -112 122 -11 12 
+
+reverse integers
+
+number = 0 reverse number = 0
+number = 1234 reverse number = 4321
+number = 8 reverse number = 8
+number = 888 reverse number = 888
+number = 763 reverse number = 367
+number = 123456789 reverse number = 987654321
+
+Sorted Matrix Ascending Order
+
+-123 -112 -23 -12 -11 
+-9 -3 -1 -1 0 
+1 1 2 2 2 
+3 5 6 7 8 
+9 9 10 10 11 
+11 12 12 23 55 
+71 92 122 342 901 
+
+Books, Authors and Books Serial Number
+
+
+Book name: Chasmba Chasamba Chasamba
+Book Author: Yighal Mosinzon
+Number Of Copies: 4
+Books Serial Numbers: 1234 2345 5678 6789 
+
+Book name: Michael Sheli
+Book Author: Amos Oz
+Number Of Copies: 1
+Books Serial Numbers: 11111111 
+
+Book name: Bderech El Hachatulin
+Book Author: Yeusha Knaz
+Number Of Copies: 0
+Books Serial Numbers: 
+
+Book name: Mar Mani
+Book Author: A. Bet. Yeusha
+Number Of Copies: 2
+Books Serial Numbers: 44444 888888 
+
+Book name: Ayen Erech Ahava
+Book Author: David Grosman
+Number Of Copies: 3
+Books Serial Numbers: 12345 67890 344321 
+
+Book name: Network Programming
+Book Author: No One
+Number Of Copies: 4
+Books Serial Numbers: 7 8 9 4 
+
+Book name: Network Programming
+Book Author: Some One
+Number Of Copies: 4
+Books Serial Numbers: 1 2 3 4 
+
+Book name: Object Oriented Programming
+Book Author: Detail And Detail
+Number Of Copies: 4
+Books Serial Numbers: 5 4 3 2 
+
+Book name: Introduction To Computer Science With Java
+Book Author: Detail And His Son
+Number Of Copies: 4
+Books Serial Numbers: 1 2 3 4 
