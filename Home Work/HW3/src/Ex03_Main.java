@@ -78,8 +78,9 @@ public class Ex03_Main {
 
 		// Phase E
 		// getting output file name and write it
+		//"/home/itai/myGarbage/albumOutputFile-myGarbage.txt");
 		String outputFileName = JOptionPane.showInputDialog("Please Enter output file name (full path)",
-				"/home/itai/myGarbage/albumOutputFile-myGarbage.txt");
+				"albumOutputFile.txt");
 		PrintWriter output = new PrintWriter(outputFileName);
 		// Write formatted output to the file
 		String lineSep = "=============";
