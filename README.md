@@ -1,5 +1,5 @@
 # Introduction to Computer Science (Java)
-SE freshman first semster course.
+Foundations of Computer Science using Java programming language. 
 
 
 
